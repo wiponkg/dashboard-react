@@ -1,0 +1,5 @@
+{
+  "name": "User Management Dashboard",
+  "description": "A professional dashboard built with React, TypeScript, PrimeReact, and Chakra UI to manage and view user data from a REST API.",
+  "requestFramePermissions": []
+}
